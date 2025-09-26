@@ -1,4 +1,3 @@
-// Roberto Fernández del Barrio 43232819H
 package audx01;
 
 import java.io.*;
